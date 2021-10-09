@@ -5,7 +5,7 @@
 - Switches to a new VSCode theme every week
 
 ---
-<details open>
+<details close>
   <summary markdown="span"><b>🍄 A Few Concoctions</b></summary>
   <ul>
     <li>
@@ -33,7 +33,7 @@
 </details>
 
 ---
-<details open>
+<details close>
   <summary markdown="span"><b>✨ A Short List of Favs</b></summary>
   <p></p>
   <ul>
@@ -73,6 +73,7 @@
 
 <details open>
   <summary markdown="span"><b>🐚 Contact Info</b></summary>
+  <p></p>
   <ul>
       <a href="https://twitter.com/seven_dillenia" target="_blank">
         <img src="./twitter.png" width='30px'>
