@@ -7,6 +7,7 @@
 ---
 <details close>
   <summary markdown="span"><b>🍄 A Few Concoctions</b></summary>
+  <p></p>
   <ul>
     <li>
         <a href="https://www.dragonagecodex.com/">
