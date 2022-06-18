@@ -1,6 +1,6 @@
 # Hello, friends! ✌🏽
 
-- Programmer
+- Software Engineer
 - Spends too much time delving into Dragon Age Lore
 - Switches to a new VSCode theme every week
 
